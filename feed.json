@@ -1,0 +1,105 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Secret Story",
+    "description": "",
+    "home_page_url": "https://secretstory.ml",
+    "feed_url": "https://secretstory.ml/feed.json",
+    "user_comment": "",
+    "icon": "https://secretstory.ml/media/website/logo.png",
+    "author": {
+        "name": "secretstory"
+    },
+    "items": [
+        {
+            "id": "https://secretstory.ml/todas-las-novedades-de-secret-story-2.html",
+            "url": "https://secretstory.ml/todas-las-novedades-de-secret-story-2.html",
+            "title": "Todas las novedades de Secret Story 2",
+            "summary": "Uno de los grandes cambios de esta edición es que los concursantes serán anónimos. Otra de las novedades son las caras de los presentadores del&hellip;",
+            "content_html": "<p>Uno de los grandes cambios de esta edición es que los concursantes serán anónimos. Otra de las novedades son las caras de los presentadores del formato que no contará con Jorge Javie, Mediaset ha confiado, en Carlos Sobera, Toñi Moreno, Sandra Barneda y Lidia Torrent. </p>\n<p>Otro cambio es el montante de los premios. El ganador de la esfera, que en la primera edición ganó Sandra Pica, se hará con 50.000 euros, y el vencedor del programa se embolsará 150.000 euros tras estar trece o catorce semanas aislado en la casa de Guadalix.</p>\n<p> </p>\n<p> </p>",
+            "image": "https://secretstory.ml/media/posts/6/n1.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Noticias"
+            ],
+            "date_published": "2022-01-30T02:17:21+00:00",
+            "date_modified": "2022-01-30T02:17:21+00:00"
+        },
+        {
+            "id": "https://secretstory.ml/debate-2.html",
+            "url": "https://secretstory.ml/debate-2.html",
+            "title": "Debate 2",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3372659444376\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/5/2x02d.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Debates"
+            ],
+            "date_published": "2022-01-30T01:46:15+00:00",
+            "date_modified": "2022-01-30T01:46:15+00:00"
+        },
+        {
+            "id": "https://secretstory.ml/debate-1.html",
+            "url": "https://secretstory.ml/debate-1.html",
+            "title": "Debate 1",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3355457292952\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/4/2x01d.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Debates"
+            ],
+            "date_published": "2022-01-30T01:44:53+00:00",
+            "date_modified": "2022-01-30T01:44:53+00:00"
+        },
+        {
+            "id": "https://secretstory.ml/gala-3.html",
+            "url": "https://secretstory.ml/gala-3.html",
+            "title": "Gala 3",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3384272685720\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/3/2x03.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Galas"
+            ],
+            "date_published": "2022-01-30T01:40:29+00:00",
+            "date_modified": "2022-01-30T01:40:29+00:00"
+        },
+        {
+            "id": "https://secretstory.ml/gala-2.html",
+            "url": "https://secretstory.ml/gala-2.html",
+            "title": "Gala 2",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3354807306904\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/2/2x02.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Galas"
+            ],
+            "date_published": "2022-01-30T01:37:53+00:00",
+            "date_modified": "2022-01-30T01:37:53+00:00"
+        },
+        {
+            "id": "https://secretstory.ml/gala-1.html",
+            "url": "https://secretstory.ml/gala-1.html",
+            "title": "Gala 1",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3426143505013\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/1/2x01.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Galas"
+            ],
+            "date_published": "2022-01-30T01:36:38+00:00",
+            "date_modified": "2022-01-30T01:36:38+00:00"
+        }
+    ]
+}

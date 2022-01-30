@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://secretstory.ml/sitemap.xml
