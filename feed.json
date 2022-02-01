@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://secretstory.ml/debate-3.html",
+            "url": "https://secretstory.ml/debate-3.html",
+            "title": "Debate 3",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3451408353909\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/7/2x03d.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Debates"
+            ],
+            "date_published": "2022-02-01T15:05:08+00:00",
+            "date_modified": "2022-02-01T15:05:08+00:00"
+        },
+        {
             "id": "https://secretstory.ml/todas-las-novedades-de-secret-story-2.html",
             "url": "https://secretstory.ml/todas-las-novedades-de-secret-story-2.html",
             "title": "Todas las novedades de Secret Story 2",
             "summary": "Uno de los grandes cambios de esta edición es que los concursantes serán anónimos. Otra de las novedades son las caras de los presentadores del&hellip;",
-            "content_html": "<p>Uno de los grandes cambios de esta edición es que los concursantes serán anónimos. Otra de las novedades son las caras de los presentadores del formato que no contará con Jorge Javie, Mediaset ha confiado, en Carlos Sobera, Toñi Moreno, Sandra Barneda y Lidia Torrent. </p>\n<p>Otro cambio es el montante de los premios. El ganador de la esfera, que en la primera edición ganó Sandra Pica, se hará con 50.000 euros, y el vencedor del programa se embolsará 150.000 euros tras estar trece o catorce semanas aislado en la casa de Guadalix.</p>\n<p> </p>\n<p> </p>",
+            "content_html": "<p>Uno de los grandes cambios de esta edición es que los concursantes serán anónimos. Otra de las novedades son las caras de los presentadores del formato que no contará con Jorge Javie, Mediaset ha confiado, en Carlos Sobera, Toñi Moreno, Sandra Barneda y Lidia Torrent. </p>\n<p>Otro cambio es el montante de los premios. El ganador de la esfera, que en la primera edición ganó Sandra Pica, se hará con 50.000 euros, y el vencedor del programa se embolsará los 150.000 euros tras estar trece o catorce semanas aislado en la casa de Guadalix.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "image": "https://secretstory.ml/media/posts/6/n1.jpg",
             "author": {
                 "name": "secretstory"
@@ -24,7 +39,7 @@
                    "Noticias"
             ],
             "date_published": "2022-01-30T02:17:21+00:00",
-            "date_modified": "2022-01-30T02:17:21+00:00"
+            "date_modified": "2022-01-30T22:01:20+00:00"
         },
         {
             "id": "https://secretstory.ml/debate-2.html",
