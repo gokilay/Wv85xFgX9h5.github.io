@@ -3,12 +3,30 @@
     <title>Secret Story</title>
     <link href="https://secretstory.ml/feed.xml" rel="self" />
     <link href="https://secretstory.ml" />
-    <updated>2022-02-01T15:05:08+00:00</updated>
+    <updated>2022-02-03T18:09:40+00:00</updated>
     <author>
         <name>secretstory</name>
     </author>
     <id>https://secretstory.ml</id>
 
+    <entry>
+        <title>Gala 4</title>
+        <author>
+            <name>secretstory</name>
+        </author>
+        <link href="https://secretstory.ml/gala-4.html"/>
+        <id>https://secretstory.ml/gala-4.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-02-03T18:09:40+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://secretstory.ml/media/posts/8/2x04.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3459441363573" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 3</title>
         <author>
