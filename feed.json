@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://secretstory.ml/debate-4.html",
+            "url": "https://secretstory.ml/debate-4.html",
+            "title": "Debate 4",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3468599429749\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/9/Lanochedelossecretos4_54d3.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Debates"
+            ],
+            "date_published": "2022-02-09T15:05:27+00:00",
+            "date_modified": "2022-02-09T15:05:27+00:00"
+        },
+        {
             "id": "https://secretstory.ml/gala-4.html",
             "url": "https://secretstory.ml/gala-4.html",
             "title": "Gala 4",
