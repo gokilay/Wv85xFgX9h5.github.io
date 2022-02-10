@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://secretstory.ml/gala-5.html",
+            "url": "https://secretstory.ml/gala-5.html",
+            "title": "Gala 5",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3476245973621\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/10/2x05.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Galas"
+            ],
+            "date_published": "2022-02-10T23:58:46+00:00",
+            "date_modified": "2022-02-10T23:58:46+00:00"
+        },
+        {
             "id": "https://secretstory.ml/debate-4.html",
             "url": "https://secretstory.ml/debate-4.html",
             "title": "Debate 4",
