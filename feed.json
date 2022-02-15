@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://secretstory.ml/debate-5.html",
+            "url": "https://secretstory.ml/debate-5.html",
+            "title": "Debate 5",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3485216868981\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/11/2x05d.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Debates"
+            ],
+            "date_published": "2022-02-15T01:31:27+00:00",
+            "date_modified": "2022-02-15T01:31:27+00:00"
+        },
+        {
             "id": "https://secretstory.ml/gala-5.html",
             "url": "https://secretstory.ml/gala-5.html",
             "title": "Gala 5",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2022-01-30T01:37:53+00:00",
             "date_modified": "2022-01-30T01:37:53+00:00"
-        },
-        {
-            "id": "https://secretstory.ml/gala-1.html",
-            "url": "https://secretstory.ml/gala-1.html",
-            "title": "Gala 1",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3426143505013\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://secretstory.ml/media/posts/1/2x01.jpg",
-            "author": {
-                "name": "secretstory"
-            },
-            "tags": [
-                   "Galas"
-            ],
-            "date_published": "2022-01-30T01:36:38+00:00",
-            "date_modified": "2022-01-30T01:36:38+00:00"
         }
     ]
 }
