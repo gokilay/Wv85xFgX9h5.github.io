@@ -3,12 +3,30 @@
     <title>Secret Story</title>
     <link href="https://secretstory.ml/feed.xml" rel="self" />
     <link href="https://secretstory.ml" />
-    <updated>2022-02-15T01:31:27+00:00</updated>
+    <updated>2022-02-18T19:35:11+00:00</updated>
     <author>
         <name>secretstory</name>
     </author>
     <id>https://secretstory.ml</id>
 
+    <entry>
+        <title>Gala 6</title>
+        <author>
+            <name>secretstory</name>
+        </author>
+        <link href="https://secretstory.ml/gala-6.html"/>
+        <id>https://secretstory.ml/gala-6.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-02-18T19:35:11+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://secretstory.ml/media/posts/12/SS_Gala6_4470.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3495431309941" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 5</title>
         <author>
@@ -177,24 +195,6 @@
             <![CDATA[
                     <img src="https://secretstory.ml/media/posts/3/2x03.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3384272685720" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gala 2</title>
-        <author>
-            <name>secretstory</name>
-        </author>
-        <link href="https://secretstory.ml/gala-2.html"/>
-        <id>https://secretstory.ml/gala-2.html</id>
-            <category term="Galas"/>
-
-        <updated>2022-01-30T01:37:53+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://secretstory.ml/media/posts/2/2x02.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3354807306904" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
