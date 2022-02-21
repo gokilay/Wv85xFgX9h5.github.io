@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://secretstory.ml/debate-6.html",
+            "url": "https://secretstory.ml/debate-6.html",
+            "title": "Debate 6",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3462323440280\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://secretstory.ml/media/posts/13/Lanochedelossecretos6_eecb.jpg",
+            "author": {
+                "name": "secretstory"
+            },
+            "tags": [
+                   "Debates"
+            ],
+            "date_published": "2022-02-21T17:55:12+00:00",
+            "date_modified": "2022-02-21T17:55:12+00:00"
+        },
+        {
             "id": "https://secretstory.ml/gala-6.html",
             "url": "https://secretstory.ml/gala-6.html",
             "title": "Gala 6",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2022-01-30T01:44:53+00:00",
             "date_modified": "2022-01-30T01:44:53+00:00"
-        },
-        {
-            "id": "https://secretstory.ml/gala-3.html",
-            "url": "https://secretstory.ml/gala-3.html",
-            "title": "Gala 3",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3384272685720\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://secretstory.ml/media/posts/3/2x03.jpg",
-            "author": {
-                "name": "secretstory"
-            },
-            "tags": [
-                   "Galas"
-            ],
-            "date_published": "2022-01-30T01:40:29+00:00",
-            "date_modified": "2022-01-30T01:40:29+00:00"
         }
     ]
 }

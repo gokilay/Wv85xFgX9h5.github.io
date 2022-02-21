@@ -3,12 +3,30 @@
     <title>Secret Story</title>
     <link href="https://secretstory.ml/feed.xml" rel="self" />
     <link href="https://secretstory.ml" />
-    <updated>2022-02-18T19:35:11+00:00</updated>
+    <updated>2022-02-21T17:55:12+00:00</updated>
     <author>
         <name>secretstory</name>
     </author>
     <id>https://secretstory.ml</id>
 
+    <entry>
+        <title>Debate 6</title>
+        <author>
+            <name>secretstory</name>
+        </author>
+        <link href="https://secretstory.ml/debate-6.html"/>
+        <id>https://secretstory.ml/debate-6.html</id>
+            <category term="Debates"/>
+
+        <updated>2022-02-21T17:55:12+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://secretstory.ml/media/posts/13/Lanochedelossecretos6_eecb.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3462323440280" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gala 6</title>
         <author>
@@ -177,24 +195,6 @@
             <![CDATA[
                     <img src="https://secretstory.ml/media/posts/4/2x01d.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3355457292952" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gala 3</title>
-        <author>
-            <name>secretstory</name>
-        </author>
-        <link href="https://secretstory.ml/gala-3.html"/>
-        <id>https://secretstory.ml/gala-3.html</id>
-            <category term="Galas"/>
-
-        <updated>2022-01-30T01:40:29+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://secretstory.ml/media/posts/3/2x03.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3384272685720" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
