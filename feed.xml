@@ -3,12 +3,48 @@
     <title>Secret Story</title>
     <link href="https://secretstory.ml/feed.xml" rel="self" />
     <link href="https://secretstory.ml" />
-    <updated>2022-02-21T17:55:12+00:00</updated>
+    <updated>2022-03-01T06:10:52+00:00</updated>
     <author>
         <name>secretstory</name>
     </author>
     <id>https://secretstory.ml</id>
 
+    <entry>
+        <title>Debate 7</title>
+        <author>
+            <name>secretstory</name>
+        </author>
+        <link href="https://secretstory.ml/debate-7.html"/>
+        <id>https://secretstory.ml/debate-7.html</id>
+            <category term="Debates"/>
+
+        <updated>2022-03-01T06:10:52+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://secretstory.ml/media/posts/15/Lanochedelossecretos7_45af.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3521737788021" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gala 7</title>
+        <author>
+            <name>secretstory</name>
+        </author>
+        <link href="https://secretstory.ml/gala-7.html"/>
+        <id>https://secretstory.ml/gala-7.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-03-01T06:09:44+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://secretstory.ml/media/posts/14/lacasadelossecretos7_8be6.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3480862132888" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 6</title>
         <author>
@@ -159,42 +195,6 @@
 <p> </p>
 <p> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 2</title>
-        <author>
-            <name>secretstory</name>
-        </author>
-        <link href="https://secretstory.ml/debate-2.html"/>
-        <id>https://secretstory.ml/debate-2.html</id>
-            <category term="Debates"/>
-
-        <updated>2022-01-30T01:46:15+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://secretstory.ml/media/posts/5/2x02d.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3372659444376" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 1</title>
-        <author>
-            <name>secretstory</name>
-        </author>
-        <link href="https://secretstory.ml/debate-1.html"/>
-        <id>https://secretstory.ml/debate-1.html</id>
-            <category term="Debates"/>
-
-        <updated>2022-01-30T01:44:53+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://secretstory.ml/media/posts/4/2x01d.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3355457292952" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
