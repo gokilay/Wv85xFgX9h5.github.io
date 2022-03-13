@@ -3,12 +3,48 @@
     <title>Secret Story</title>
     <link href="https://secretstory.ml/feed.xml" rel="self" />
     <link href="https://secretstory.ml" />
-    <updated>2022-03-01T06:10:52+00:00</updated>
+    <updated>2022-03-13T04:48:59+00:00</updated>
     <author>
         <name>secretstory</name>
     </author>
     <id>https://secretstory.ml</id>
 
+    <entry>
+        <title>Debate 8</title>
+        <author>
+            <name>secretstory</name>
+        </author>
+        <link href="https://secretstory.ml/debate-8.html"/>
+        <id>https://secretstory.ml/debate-8.html</id>
+            <category term="Debates"/>
+
+        <updated>2022-03-13T04:48:59+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://secretstory.ml/media/posts/17/Lanochedelossecretos8_4823.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3540782746229" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gala 8</title>
+        <author>
+            <name>secretstory</name>
+        </author>
+        <link href="https://secretstory.ml/gala-8.html"/>
+        <id>https://secretstory.ml/gala-8.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-03-13T04:47:26+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://secretstory.ml/media/posts/16/s8.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3534673021557" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 7</title>
         <author>
@@ -150,51 +186,6 @@
             <![CDATA[
                     <img src="https://secretstory.ml/media/posts/8/2x04.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3459441363573" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 3</title>
-        <author>
-            <name>secretstory</name>
-        </author>
-        <link href="https://secretstory.ml/debate-3.html"/>
-        <id>https://secretstory.ml/debate-3.html</id>
-            <category term="Debates"/>
-
-        <updated>2022-02-01T15:05:08+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://secretstory.ml/media/posts/7/2x03d.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3451408353909" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Todas las novedades de Secret Story 2</title>
-        <author>
-            <name>secretstory</name>
-        </author>
-        <link href="https://secretstory.ml/todas-las-novedades-de-secret-story-2.html"/>
-        <id>https://secretstory.ml/todas-las-novedades-de-secret-story-2.html</id>
-            <category term="Noticias"/>
-
-        <updated>2022-01-30T22:01:20+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://secretstory.ml/media/posts/6/n1.jpg" alt="" />
-                    Uno de los grandes cambios de esta edición es que los concursantes serán anónimos. Otra de las novedades son las caras de los presentadores del&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://secretstory.ml/media/posts/6/n1.jpg" alt="" />
-                <p>Uno de los grandes cambios de esta edición es que los concursantes serán anónimos. Otra de las novedades son las caras de los presentadores del formato que no contará con Jorge Javie, Mediaset ha confiado, en Carlos Sobera, Toñi Moreno, Sandra Barneda y Lidia Torrent. </p>
-<p>Otro cambio es el montante de los premios. El ganador de la esfera, que en la primera edición ganó Sandra Pica, se hará con 50.000 euros, y el vencedor del programa se embolsará los 150.000 euros tras estar trece o catorce semanas aislado en la casa de Guadalix.</p>
-<p> </p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
